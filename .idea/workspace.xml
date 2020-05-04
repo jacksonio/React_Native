@@ -21,13 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="529d1ce7-0d24-48f3-ace8-82138afa8da1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/.expo/packager-info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.expo/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.expo/settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/DIshdetailComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/DishdetailComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/MainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/MainComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MenuComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/MenuComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,7 @@
       <updated>1588524197042</updated>
       <workItem from="1588524199226" duration="776000" />
       <workItem from="1588580715417" duration="2223000" />
-      <workItem from="1588609778419" duration="2900000" />
+      <workItem from="1588609778419" duration="4325000" />
     </task>
     <servers />
   </component>
