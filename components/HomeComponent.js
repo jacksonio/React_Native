@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {View, Text, Animated, Easing, ScrollView} from 'react-native';
+import {View, Text, Animated, Easing, ScrollView } from 'react-native';
 import { Card } from 'react-native-elements';
 import {baseUrl} from "../shared/baseUrl";
 import { connect } from  'react-redux'
